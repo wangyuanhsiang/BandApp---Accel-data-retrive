@@ -114,10 +114,6 @@ namespace BandApp___Accel_data_retrive
            await bandClient.SensorManager.Accelerometer.StopReadingsAsync();
             using (IsolatedStorageFile Loisf = IsolatedStorageFile.GetUserStoreForApplication())
             {
-                if (Loisf.FileExists("myData.store"))
-                {
-                    using (IsolatedStorageFileStream fstream = Loisf.OpenFile("myData.store", FileMode.Open))
-                    {
                         IsolatedStorageFile myIsolatedStorage = IsolatedStorageFile.GetUserStoreForApplication();
                         IsolatedStorageFileStream fileStream = myIsolatedStorage.OpenFile("Accelerometer\\myFile.txt", FileMode.Open, FileAccess.Read);
                         fileStream.Position = 0;
@@ -125,9 +121,6 @@ namespace BandApp___Accel_data_retrive
                         {
                             tbResult.Text += "\n" + reader.ReadToEnd();
                         }
-                    }
-                }
-
             }
             FileSavePicker picker = new FileSavePicker();
             picker.FileTypeChoices.Add("file style", new string[] { ".txt" });

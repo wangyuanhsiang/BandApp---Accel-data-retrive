@@ -1,1 +1,1 @@
-C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\BandApp - Accel data retrive.csproj;x86
+C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\BandApp - Accel data retrive.csproj;x86

@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>af9976d1-b3e5-4244-9da6-fb4d7b7ff175</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\obj\x86\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\BandApp - Accel data retrive.exe">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\BandApp - Accel data retrive.exe">
       <PackagePath>entrypoint\BandApp - Accel data retrive.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerontech\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -351,49 +351,49 @@
     <AppxPackagedFile Include="C:\Users\Gerontech\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\BandApp - Accel data retrive.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\BandApp - Accel data retrive.xr.xml">
       <PackagePath>BandApp - Accel data retrive.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\Visual Studio 2015\Projects\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\Core\BandApp - Accel data retrive.exe">
+    <AppxPackagedFile Include="C:\Users\Gerontech\Documents\BandAPPs\BandApp - Accel data retrive\BandApp - Accel data retrive\bin\x86\Debug\Core\BandApp - Accel data retrive.exe">
       <PackagePath>BandApp - Accel data retrive.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
